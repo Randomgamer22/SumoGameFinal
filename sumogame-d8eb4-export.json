@@ -1,0 +1,23 @@
+{
+  "room1" : {
+    "gameState" : 2,
+    "playerCount" : 2,
+    "players" : {
+      "player1" : {
+        "index" : 1,
+        "name" : "player1",
+        "taps" : 0,
+        "x" : 768,
+        "y" : 200
+      },
+      "player2" : {
+        "index" : 2,
+        "name" : "player2",
+        "taps" : 0,
+        "x" : 768,
+        "y" : 600
+      }
+    },
+    "status" : 1
+  }
+}
